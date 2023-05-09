@@ -8,13 +8,13 @@ Create app like [ChatPDF](https://www.chatpdf.com/) or [PDF.ai](https://pdf.ai/)
 
 ### Getting Started
 
-Code is coming soon, ⭐ (Star) the repo to receive updates
+Code is up now, ⭐ (Star) the repo to receive updates
 
 Replit and streamlit version coming soon
 
 Follow [Anil Chandra Naidu Matcha](https://twitter.com/matchaman11) on twitter for updates
 
-### How to run ?
+### How to run ? (Things might change based on OS)
 
 1. Create a virtual environment in python https://docs.python.org/3/library/venv.html
 
