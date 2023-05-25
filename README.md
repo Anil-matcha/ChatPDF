@@ -28,6 +28,10 @@ Subscribe to https://www.youtube.com/@AnilChandraNaiduMatcha for more such video
 
 5. Change pdf file and query in code if you want to try with any other content
 
+To run streamlit app, follow the steps run "streamlit run streamlitui.py"
+
+Parts of the streamlit code is inspired from [here](https://github.com/viniciusarruda/chatpdf)
+
 ### Demo link
 
 https://heybot.thesamur.ai/
