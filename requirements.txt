@@ -104,3 +104,4 @@ XlsxWriter==3.1.0
 yarl==1.9.2
 zipp==3.15.0
 zstandard==0.21.0
+pypdfium2==4.15.0
