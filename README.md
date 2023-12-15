@@ -4,7 +4,7 @@ Chat with any PDF.
 
 Easily upload the PDF documents you'd like to chat with. Instant answers. Ask questions, extract information, and summarize documents with AI. Sources included.
 
-Create app like [ChatPDF](https://www.chatpdf.com/) or [PDF.ai](https://pdf.ai/) in less than 10 lines of code
+Create app like [ChatPDF](https://www.thesamur.ai/chatpdf-alternative) or [PDF.ai](https://pdf.ai/) in less than 10 lines of code
 
 ### Getting Started
 
