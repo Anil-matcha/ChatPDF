@@ -6,6 +6,8 @@ Easily upload the PDF documents you'd like to chat with. Instant answers. Ask qu
 
 Create app like [ChatPDF](https://www.thesamur.ai/chatpdf-alternative) or [PDF.ai](https://pdf.ai/) in less than 10 lines of code
 
+https://github.com/Anil-matcha/ChatPDF/assets/4326215/65feb017-db88-4334-b535-fd65e81d9724
+
 ### Getting Started
 
 Code is up now, ⭐ (Star) the repo to receive updates
